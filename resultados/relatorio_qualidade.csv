@@ -1,0 +1,11 @@
+problema,qtd,impacto,tratamento,proporcao_%
+Valores ausentes,0,—,Nenhum tratamento necessário,0.0
+Registros duplicados,0,—,Nenhum tratamento necessário,0.0
+Perfis idênticos (sem target),0,Pares com similaridade máxima,Mantidos: são estudantes distintos,0.0
+Atributos com dominância ≥ 96%,3,Não discriminam perfis; inflam similaridade,"Removidos: necess_especiais, nacionalidade, internacional",
+Atributos macroeconômicos,3,Iguais para toda a coorte: similaridade artificial,"Removidos: taxa_desemprego, taxa_inflacao, pib",
+UC 1º sem. inscritas = 0,180,"Nota 0 é estrutural, não desempenho",Mantidos; discretização isola a classe 0,4.07
+UC 2º sem. inscritas = 0,180,Idem,Idem,4.07
+Outliers em idade (IQR),441,Distorcem distâncias numéricas,Discretização por quantis,9.97
+Registros com categoria rara (< 2%),1125,Quase nunca coincidem: reduzem similaridade,Aglutinadas em 'outros',25.43
+Classe Enrolled (desfecho em aberto),794,Desfecho censurado,Mantida e analisada separadamente,17.95

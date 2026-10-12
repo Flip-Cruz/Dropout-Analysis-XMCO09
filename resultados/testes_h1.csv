@@ -1,0 +1,4 @@
+critério,estatística,teste,atendido
+(a) Modularidade × nulo,Q = 0.668 vs 0.088 ± 0.001,z = 475.8,True
+(b) Assortatividade do Target,r = 0.417 (nulo: -0.000 ± 0.002),p = 0.0010,True
+(c) Concentração de Dropout,maior lift = 1.83 (C3),"χ² = 925, p = 1.3e-196, V = 0.323",True

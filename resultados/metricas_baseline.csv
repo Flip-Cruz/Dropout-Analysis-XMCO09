@@ -1,0 +1,17 @@
+,valor
+Ordem N,4424.0
+Tamanho L,178048.0
+Densidade,0.01819847672797014
+Grau médio <k>,80.49186256781194
+Grau mínimo,3.0
+Grau máximo,349.0
+Heterogeneidade <k²>/<k>,129.41592154924513
+Componentes conexos,1.0
+GCC (% dos nós),100.0
+Nós isolados,0.0
+Caminho médio <d> (GCC),2.942500140029167
+Diâmetro (GCC),5.0
+Clustering médio (local),0.2984595606455355
+Clustering global (transitividade),0.40191700579219963
+Assortatividade de grau,0.518018754929987
+Modularidade (partição baseline),0.5766985112603769
